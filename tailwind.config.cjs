@@ -3,6 +3,8 @@ const config = {
 
 	theme: {
 		screens: {
+			'xs': {'max':'390px'},
+			// => @media (min-width: 320px) { ... }
 			'sm': '400px',
 			// => @media (min-width: 640px) { ... }
 	  
