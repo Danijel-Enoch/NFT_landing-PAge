@@ -1,10 +1,6 @@
 <script>
    	import imageSrc from '/home/enoch/gitWorkspace/my-app/src/assets/2616.png';
     import team1 from '/home/enoch/gitWorkspace/my-app/src/assets/2579.png';
-    import team2 from '/home/enoch/gitWorkspace/my-app/src/assets/2590.png';
-    import team3 from '/home/enoch/gitWorkspace/my-app/src/assets/2616.png';
-    import team4 from '/home/enoch/gitWorkspace/my-app/src/assets/icons.png';
-    import team5 from '/home/enoch/gitWorkspace/my-app/src/assets/2620(1).png';
 	import team6 from '/home/enoch/gitWorkspace/my-app/src/assets/2604.png';
 	import team7 from '/home/enoch/gitWorkspace/my-app/src/assets/2603.png';
 
@@ -12,10 +8,10 @@
 
 </script>
 <header class="">
-	<nav class=" fixed sm:sticky bg-zinc-800 lg:shadow-md md:shadow-md md:gap-12 lg:gap-9 lg:w-full lg:z-20 md:z-20 flex lg:flex-row md:pr-10   ">
-		<img class="lg:h-auto sm:invisible  md:w-0 lg:w-1/3" src="" alt="Logo" />
+	<nav class=" lg:fixed  lg:flex  bg-zinc-800 lg:shadow-md md:shadow-md md:gap-12 lg:gap-4 lg:w-full lg:z-20 md:z-20 sm:flex lg:flex-row md:pr-10   ">
+		<img class="   md:w-0 lg:w-1/3 sm:invisible" src="" alt="Logo" />
 
-		<ul class="text-white lg:w-2/3 sm:grid sm:grid-cols-3 md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center  ">
+		<ul class="text-white lg:w-2/3  md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center  ">
 			<li>Feature</li>
 			<li>Team</li>
 			<li>Road Map</li>
