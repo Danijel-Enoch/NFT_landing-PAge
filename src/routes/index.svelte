@@ -288,14 +288,14 @@
 
     
         <div class=" lg:w-96 lg:h-96 flex text-white flex-col mx-10 gap-2 mt-5">
-            <img class=" rounded-full" src={imageSrc} alt="this is an image">
+            <img class=" rounded-full" src={imageSrc} alt="this is an oka">
             <span class={text}>
                 Macko Polo
             </span>
             CTO
         </div>
         <div class="flex lg:w-96 lg:h-96 text-white gap-2 flex-col mx-10 mt-5">
-            <img class=" rounded-full"src={team1} alt="this is an image">
+            <img class=" rounded-full"src={team1} alt="this is an okay">
             <span class={text}>
                 Macko Polo
             </span>
@@ -305,14 +305,14 @@
 
     
         <div class=" lg:w-96 lg:h-96 flex text-white flex-col gap-2 mx-10 mt-5">
-            <img class=" rounded-full" src={team6} alt="this is an image">
+            <img class=" rounded-full" src={team6} alt="this is an okay">
             <span class={text} >
                 Macko Polo
             </span>
             Product Manger
         </div>
         <div class="flex lg:w-96 lg:h-96 text-white gap-2 flex-col  mx-10 mt-5">
-            <img class=" rounded-full"src={team7} alt="this is an image">
+            <img class=" rounded-full"src={team7} alt="this is an Okay">
             <span class={text} >
                 Macko Polo
             </span>
