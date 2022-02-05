@@ -8,7 +8,7 @@
 
 
 
-    let text="text-white font-bold   text-2xl"
+    let text="text-white font-bold animate-bounce  text-2xl"
 
 </script>
 <header class="">
@@ -16,14 +16,14 @@
 		<img class="z-21   md:w-0 lg:w-1/3 sm:invisible" src="" alt="Logo" />
 	
 		<ul class="text-white lg:w-2/3  md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center xs:text-sm xs:gap-3 xs:flex-col  ">
-			<li>Feature</li>
-			<li>Team</li>
-			<li>Road Map</li>
-			<li>Traits</li>
-			<li>FAQ</li>
-			<li>About</li>
+			<li class="hover:capitalize">Feature</li>
+			<li class="hover:capitalize" >Team</li>
+			<li class="hover:capitalize" >Road Map</li>
+			<li class="hover:capitalize" >Traits</li>
+			<li class="hover:capitalize" >FAQ</li>
+			<li class="hover:capitalize" >About</li>
 			<div class=" shadow-md ">
-				<button class="rounded shadow-md outline py-4 px-4 text-xs"> Connect Wallet </button>
+				<button class="rounded shadow-md outline py-4 px-4 text-xs hover:-translate-y-1 hover:scale-110  duration-300"> Connect Wallet </button>
 			</div>
 		</ul>
 	</nav>
@@ -66,10 +66,10 @@
 		</p>
 	</div>
 </div>
-<div class="gap-12 flex  flex-row xs:flex-col p-8 sm:flex-col md:flex-row bg-black ">
-	<img class="md:w-40 md:h-40 lg:h-52 lg:w-52" src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/2-min-1.png" alt="" />
-	<img class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible " src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/1-min-1.png" alt="" />
-	<img class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible"  src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/6-min-1.png" alt="" />
+<div class="gap-12 flex  lg:flex-row md:flex-row xs:flex-col p-8 sm:flex-col bg-black ">
+	<img class="md:w-40 md:h-40 lg:h-52 lg:w-52 hover:skew-y-3" src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/2-min-1.png" alt="" />
+	<img class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3 " src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/1-min-1.png" alt="" />
+	<img class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"  src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/6-min-1.png" alt="" />
 </div>
 
 <div class="flex lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
