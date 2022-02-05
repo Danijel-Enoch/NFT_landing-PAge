@@ -1,5 +1,5 @@
 <script>
-   	import imageSrc from '/home/enoch/gitWorkspace/my-app/src/assets/2616.png';
+   	import imageSrc from '../assets/2616.png';
 	 import { base, assets } from '$app/paths';
     import team1 from '../assets/2579.png';
 	import team6 from '../assets/2604.png';
