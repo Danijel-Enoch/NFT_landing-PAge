@@ -279,7 +279,10 @@
 </div>
 
 
-<div class=" bg-black flex flex-col">
+<div class=" bg-black h-screen">
+ <div class="flex flex-col">
+
+
 
     <span class="justify-items-center text-white text-6xl pt-10 text-bold text-center">
         TEAM
@@ -321,6 +324,8 @@
     </div>
 
 </div>
+</div>
+
 
 <img src="" alt="">
 <!-- <div class="bg-black">
