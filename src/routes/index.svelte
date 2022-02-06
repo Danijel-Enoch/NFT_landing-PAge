@@ -32,14 +32,14 @@
 <div class="flex lg:flex-row md:flex-row sm:flex-col xs:flex-col  ">
 	<div class=" lg:w-1/2  bg-zinc-800">
 		<img
-			class="lg:w-200 sm:mt-32 "
+			class="lg:w-200 sm:mt-32 md:-pt-22 "
 			src={imageSrc}
 			alt="testinf"
 		/>
 	</div>
 
 	<div class=" lg:w-1/2 bg-zinc-800 lg:pt-44 sm:pt-10 lg:text-center md:text-center sm:text-center sm:flex-col md:flex-col xs:flex-col">
-		<span class="lg:text-6xl md:text-2xl sm:text-md font-bold text uppercase md:mt-12  xs:ml-32 ">Who is Luther?</span>
+		<span class="lg:text-6xl md:text-2xl sm:text-md font-bold text uppercase md:mt-16 md:pb-10  xs:ml-32 ">Who is Luther?</span>
 		<p class="text-white lg:text-2xl font-bold font uppercase md:text-base md:px-7 xs:text-sm xs:ml-6 xs:text-center ">
 			I am Luther lol Luther is a everyday father intent on finding financial freedom, sharing as
 			much knowledge as he can, to help those interested.<br /> Luther merely breaks down topics that
@@ -48,7 +48,7 @@
 		</p>
 	</div>
 </div>
-<div class="flex lg:flex-row lg:mx-10 md:flex-row sm:flex-col xs:flex-col ">
+<div class="flex lg:flex-row lg:mx-10 md:flex-row md:-pt-10 sm:flex-col xs:flex-col ">
 	<div class=" lg:w-2/5  bg-zinc-800">
 		<img
 			class=""
