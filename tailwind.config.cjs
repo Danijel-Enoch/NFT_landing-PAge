@@ -11,7 +11,7 @@ const config = {
 			'md': '600px',
 			// => @media (min-width: 768px) { ... }
 	  
-			'lg': {'min':'1560px'},
+			'lg': {'min':'1240px'},
 			// => @media (min-width: 1024px) { ... }
 	  
 			'xl': '1280px',
