@@ -4,6 +4,9 @@
 	import team1 from '../assets/2579.png';
 	import team6 from '../assets/2604.png';
 	import team7 from '../assets/2603.png';
+	import team3 from '../assets/2590.png';
+	import team4 from '../assets/2620(1).png';
+	import team5 from '../assets/2553(1).png';
 
 	let text = 'text-white font-bold animate-bounce  text-2xl';
 </script>
@@ -12,7 +15,7 @@
 	<nav
 		class=" lg:fixed  lg:flex  bg-zinc-800 lg:shadow-md md:shadow-md md:gap-12 lg:gap-4 lg:w-full lg:z-20 md:z-20 sm:flex lg:flex-row md:pr-10    "
 	>
-		<img class="z-21   md:w-0 lg:w-1/3 sm:invisible" src="" alt="Logo" />
+		<img class="z-21   md:w-0 lg:w-1/3 sm:invisible" src="" alt="" />
 
 		<ul
 			class="text-white lg:w-2/3  md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center xs:text-sm xs:gap-3 xs:flex-col  "
@@ -36,7 +39,7 @@
 
 <div class="flex lg:flex-row md:flex-row sm:flex-col xs:flex-col  ">
 	<div class=" lg:w-1/2  bg-zinc-800">
-		<img class="lg:w-200 sm:mt-32 md:-pt-22 " src={imageSrc} alt="testinf" />
+		<img class="lg:w-200 sm:mt-32 md:-pt-22 " src={imageSrc} alt="" />
 	</div>
 
 	<div
@@ -80,20 +83,30 @@
 	</div>
 </div>
 
-<div class="gap-12 flex  lg:flex-row md:flex-row xs:flex-col p-8 sm:flex-col bg-black ">
+<div class="gap-12 flex  lg:flex-row md:flex-row xs:flex-col p-8 sm:flex-col bg-gray-800 ">
 	<img
 		class="md:w-40 md:h-40 lg:h-52 lg:w-52 hover:skew-y-3"
-		src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/2-min-1.png"
+		src={team6}
 		alt=""
 	/>
 	<img
 		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3 "
-		src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/1-min-1.png"
+		src={team3}
 		alt=""
 	/>
 	<img
 		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
-		src="https://www.deaddudeproject.com/wp-content/uploads/2021/07/6-min-1.png"
+		src={team4}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team5}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team1}
 		alt=""
 	/>
 </div>
