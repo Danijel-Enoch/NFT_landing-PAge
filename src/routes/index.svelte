@@ -20,7 +20,7 @@
 		<ul
 			class="text-white lg:w-2/3  md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center xs:text-sm xs:gap-3 xs:flex-col  "
 		>
-			<li class="hover:capitalize">Feature</li>
+			<li href="/#feature" class="hover:capitalize">Feature</li>
 			<li class="hover:capitalize">Team</li>
 			<li class="hover:capitalize">Road Map</li>
 			<li class="hover:capitalize">Traits</li>
