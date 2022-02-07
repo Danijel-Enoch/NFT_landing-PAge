@@ -20,12 +20,11 @@
 		<ul
 			class="text-white lg:w-2/3  md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center xs:text-sm xs:gap-3 xs:flex-col  "
 		>
-			<li href="/#feature" class="hover:capitalize">Feature</li>
-			<li class="hover:capitalize">Team</li>
-			<li class="hover:capitalize">Road Map</li>
-			<li class="hover:capitalize">Traits</li>
-			<li class="hover:capitalize">FAQ</li>
-			<li class="hover:capitalize">About</li>
+		<li class="hover:capitalize"><a href="/#feature">Feature</a></li>
+			<li class="hover:capitalize"><a href="/#team">Team</a></li>
+			<li class="hover:capitalize"><a href="/#roadmap">Road Map</a></li>
+			<li class="hover:capitalize"><a href="/#traits">Traits</a></li>
+			<li class="hover:capitalize"><a href="/#about">About</a></li>
 			<div class=" shadow-md ">
 				<button
 					class="rounded shadow-md outline py-4 px-4 text-xs hover:-translate-y-1 hover:scale-110  duration-300"
@@ -43,6 +42,7 @@
 	</div>
 
 	<div
+	id="about"
 		class=" lg:w-1/2 bg-zinc-800 lg:pt-44 sm:pt-10 lg:text-center md:text-center sm:text-center sm:flex-col md:flex-col xs:flex-col"
 	>
 		<span
@@ -65,55 +65,32 @@
 		</p>
 	</div>
 </div>
-
-<div class="flex lg:flex-row lg:mx-10 md:flex-row md:-pt-10 sm:flex-col xs:flex-col ">
-	<div class=" lg:w-2/5  bg-zinc-800">
-		<img class="" src={team6} alt="testinf " />
-	</div>
-
-	<div class=" lg:w-3/5 sm:pb-5 bg-zinc-100  text-left lg:pt-32 md:pt-20 space-y-4 ">
-		<span class="text-3xl font-bold text uppercase px-8 xs:text-base xs:ml-12 "
-			>Traits and Scarcity</span
+<div id="feature" class="flex lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
+	<img class="  md:w-80 lg:w-1/3 lg:pt-0 " src={team7} alt="" />
+	<div
+		class="flex md:w-2/3 lg:w-2/3 flex-col lg:gap-10 lg:pt-20 md:pt-10 uppercase md:gap-4 md:pb-5"
+	>
+		<span
+			class="font-bold lg:text-4xl text-black md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
 		>
-		<p class="text-black lg:text-xl px-8  font uppercase md:text-base xs:text-sm xs:pb-6">
-			Each Luther Lion NFT has been programmatically generated from 190+ attributes across traits
-			ranging from Clothes, Eye Accessories, Head-Gear, and many more. All 2626 are unique and royal
-			, some however, have rare traits that have special meaning
+			LUTHERS LAIR</span
+		>
+		<p class="md:text-sm lg:text-xl sm:pl-10 sm:w-full sm:pb-10 xs:text-sm xs:text-center">
+			Luthers Lair is where he gets comfortable and shares life changing information about history
+			as well as current topic. Luther is a everyday father intent on finding financial freedom,
+			sharing as much knowledge as he can, to help those interested. Luther merely breaks down
+			topics that are misunderstood or complexed in the most simple way he knows how to. Luther
+			never gives financial advice
 		</p>
 	</div>
 </div>
 
-<div class="gap-12 flex  lg:flex-row md:flex-row xs:flex-col p-8 sm:flex-col bg-gray-800 ">
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52 hover:skew-y-3"
-		src={team6}
-		alt=""
-	/>
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3 "
-		src={team3}
-		alt=""
-	/>
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
-		src={team4}
-		alt=""
-	/>
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
-		src={team5}
-		alt=""
-	/>
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
-		src={team1}
-		alt=""
-	/>
-</div>
+
+
 
 <!-- component -->
 
-<div class=" bg-black pt-20 pl-10 xs:-ml-24 ">
+<div id="roadmap" class=" bg-black pt-20 pl-10 xs:-ml-24 ">
 	<span
 		class=" lg:ml-60 pl-60 upppercase text-white lg:mt-20 pt-10 text-justify sm:pl-20 md:ml-14 font-bold text-3xl xs:-ml-10"
 	>
@@ -269,47 +246,81 @@
 						</div>
 					</div>
 				</li>
+
+				<li class="mb-5  ">
+					<div class="flex group items-center ">
+						<div
+							class="bg-gray-800 group-hover:bg-red-700 z-10 rounded-full border-4 border-black  h-5 w-5"
+						>
+							<div class="bg-black h-1 w-6 items-center  ml-4 mt-1" />
+						</div>
+						<div class="flex-1 ml-4 z-10 font-medium">
+							<div
+								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
+							>
+								<h3 class="mb-3 font-bold text-white text-2xl">COMMUNITY TO DECIDE - Q1 2024 </h3>
+								<p class="pb-4 text-sm text-gray-100">Physical toys concept considered<br />
+									- physical toys speak a daily affirmation upon pressing a button<br />
+									- physical toys are dressed as doctors, lawyers, sportsmen, creatives, astronauts<br /></p>
+							</div>
+						</div>
+					</div>
+				</li>
+
 			</ul>
 		</div>
 	</div>
 	<!-- Road map -->
 </div>
 
-<div class="flex lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
-	<img class="  md:w-80 lg:w-1/3 lg:pt-0 " src={team7} alt="" />
-	<div
-		class="flex md:w-2/3 lg:w-2/3 flex-col lg:gap-10 lg:pt-20 md:pt-10 uppercase md:gap-4 md:pb-5"
-	>
-		<span
-			class="font-bold lg:text-4xl text-black md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
+<div id="traits" class="flex lg:flex-row lg:mx-10 md:flex-row md:-pt-10 sm:flex-col xs:flex-col ">
+	<div class=" lg:w-2/5  bg-zinc-800">
+		<img class="" src={team6} alt="testinf " />
+	</div>
+
+	<div class=" lg:w-3/5 sm:pb-5 bg-zinc-100  text-left lg:pt-32 md:pt-20 space-y-4 ">
+		<span class="text-3xl font-bold text uppercase px-8 xs:text-base xs:ml-12 "
+			>Traits and Scarcity</span
 		>
-			LUTHERS LAIR</span
-		>
-		<p class="md:text-sm lg:text-xl sm:pl-10 sm:w-full sm:pb-10 xs:text-sm xs:text-center">
-			Luthers Lair is where he gets comfortable and shares life changing information about history
-			as well as current topic. Luther is a everyday father intent on finding financial freedom,
-			sharing as much knowledge as he can, to help those interested. Luther merely breaks down
-			topics that are misunderstood or complexed in the most simple way he knows how to. Luther
-			never gives financial advice
+		<p class="text-black lg:text-xl px-8  font uppercase md:text-base xs:text-sm xs:pb-6">
+			Each Luther Lion NFT has been programmatically generated from 190+ attributes across traits
+			ranging from Clothes, Eye Accessories, Head-Gear, and many more. All 2626 are unique and royal
+			, some however, have rare traits that have special meaning
 		</p>
 	</div>
 </div>
 
-<div
-	class="flex flex-col place-items-center justify-items-center uppercase font-bold bg-zinc-800 text-white gap-14 lg:text-3xl md:text-xl  "
->
-	<span class="mt-10"> COMMUNITY TO DECIDE - Q1 2024 </span>
-	<p class="ml-10 ">
-		Physical toys concept considered<br />
-		- physical toys speak a daily affirmation upon pressing a button<br />
-		- physical toys are dressed as doctors, lawyers, sportsmen, creatives, astronauts<br />
-	</p>
-	<ul>
-		<li />
-	</ul>
+
+<div class="gap-12 flex  lg:flex-row md:flex-row xs:flex-col p-8 sm:flex-col bg-gray-800 ">
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52 hover:skew-y-3"
+		src={team6}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3 "
+		src={team3}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team4}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team5}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team1}
+		alt=""
+	/>
 </div>
 
-<div class=" bg-black h-screen">
+
+<div id="team" class=" bg-black h-screen">
 	<div class="flex flex-col">
 		<span class="justify-items-center text-white text-6xl pt-10 text-bold text-center"> TEAM </span>
 		<div class="flex lg:flex-row md:flex-row xs:flex-col sm:flex-col gap-4 bg-black  pt-10">
