@@ -348,10 +348,6 @@
 		</div>
 	</div>
 </div>
-
-<img src="" alt="" />
-<!-- <div class="bg-black">
-	<span class="text-red-400 md:text-white sm:text-blue-600 lg:text-yellow-400 " >tablet</span>
-	<span class="text-red-400 md:text-white sm:text-blue-600 lg:text-yellow-400  " >MObile</span>
-	<span class="text-red-400 md:text-white sm:text-blue-600 lg:text-yellow-400  ">desktop</span>
-</div> -->
+<div class="bg-gray-700 text-center  text-white">
+	© 2022 Luther | All Rights Reserved
+</div>
