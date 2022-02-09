@@ -348,6 +348,6 @@
 		</div>
 	</div>
 </div>
-<div class="bg-gray-700 text-center  text-white">
+<div class="bg-gray-700 text-center  text-white font-syne">
 	© 2022 Luther | All Rights Reserved
 </div>

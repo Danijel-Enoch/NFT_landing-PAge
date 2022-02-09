@@ -19,7 +19,10 @@ const config = {
 	  
 			'2xl': '1536px',
 			// => @media (min-width: 1536px) { ... }
-		  }
+		  },
+		extend:{
+			
+		}
 	},
 
 	plugins: [require("tailwind-gradient-mask-image")]
