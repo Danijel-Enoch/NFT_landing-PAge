@@ -355,7 +355,7 @@
 			<h1 class="text-6xl font-extrabold text-warning py-10 text-center">
 				FAQ
 			</h1>
-  <div class="flex text-center lg:flex-row md:flex-row sm:flex-col xs:flex-col items-center auto gap-10 lg:px-72 md:px-10 sm:px-10 xs:px-10 py-10">
+  <div class="flex text-black text-center lg:flex-row md:flex-row sm:flex-col xs:flex-col items-center auto gap-10 lg:px-72 md:px-10 sm:px-10 xs:px-10 py-10">
 	  <div class=" bg-slate-100 rounded-xl shadow-lg w-fit">
 		  <div tabindex="0" class="collapse border-solid">
 			<input type="checkbox"> 
