@@ -26,7 +26,7 @@
 			<li class=""><a href="/#traits">Traits and Security</a></li>
 			<li class=""><a href="/#team">Team</a></li>
 			<li class=""><a href="/#feature">Feature</a></li>
-			<li class=""><a href="/#feature">(FAQ)</a></li>
+			<li class=""><a href="/#FAQ">(FAQ)</a></li>
 			<div class=" shadow-md ">
 				<button
 					class="rounded shadow-md outline py-4 px-4 text-xs hover:-translate-y-1 hover:scale-110  duration-300"
@@ -39,16 +39,16 @@
 </header>
 
 <div class="flex lg:flex-row md:flex-row sm:flex-col xs:flex-col  ">
-	<div class=" lg:w-1/2  bg-zinc-800">
+	<div class=" lg:w-1/2  bg-black">
 		<img class="lg:w-200 sm:mt-32 md:-pt-22 " src={imageSrc} alt="" />
 	</div>
 
 	<div
 	id="about"
-		class=" lg:w-1/2 bg-zinc-800 lg:pt-44 sm:pt-10 lg:text-center md:text-center sm:text-center sm:flex-col md:flex-col xs:flex-col"
+		class=" lg:w-1/2 bg-black lg:pt-44 sm:pt-10 lg:text-center md:text-center sm:text-center sm:flex-col md:flex-col xs:flex-col"
 	>
 		<span
-			class="lg:text-6xl md:text-2xl sm:text-md font-bold text uppercase md:mt-16 md:pb-10  xs:ml-32 "
+			class="lg:text-6xl text-warning  md:text-2xl sm:text-md font-bold text uppercase md:mt-16 md:pb-10  xs:ml-32 "
 			>Who is Luther?</span
 		>
 		<p
@@ -67,17 +67,17 @@
 		</p>
 	</div>
 </div>
-<div id="feature" class="flex lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
+<div id="feature" class="flex bg-black lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
 	<img class="  md:w-80 lg:w-1/3 lg:pt-0 " src={team7} alt="" />
 	<div
 		class="flex md:w-2/3 lg:w-2/3 flex-col lg:gap-10 lg:pt-20 md:pt-10 uppercase md:gap-4 md:pb-5"
 	>
 		<span
-			class="font-bold lg:text-4xl text-black md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
+			class="font-bold lg:text-4xl text-warning md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
 		>
 			LUTHERS LAIR</span
 		>
-		<p class="md:text-sm lg:text-xl sm:pl-10 sm:w-full sm:pb-10 xs:text-sm xs:text-center">
+		<p class="md:text-sm text-white lg:text-xl sm:pl-10 sm:w-full sm:pb-10 xs:text-sm xs:text-center">
 			Luthers Lair is where he gets comfortable and shares life changing information about history
 			as well as current topic. Luther is a everyday father intent on finding financial freedom,
 			sharing as much knowledge as he can, to help those interested. Luther merely breaks down
@@ -280,11 +280,11 @@
 		<img class="" src={team6} alt="testinf " />
 	</div>
 
-	<div class=" lg:w-3/5 sm:pb-5 bg-zinc-100  text-left lg:pt-32 md:pt-20 space-y-4 ">
-		<span class="text-3xl font-bold text uppercase px-8 xs:text-base xs:ml-12 "
+	<div class=" lg:w-3/5 sm:pb-5 bg-black  text-left lg:pt-32 md:pt-20 space-y-4 ">
+		<span class="text-3xl text-warning font-bold text uppercase px-8 xs:text-base xs:ml-12 "
 			>Traits and Scarcity</span
 		>
-		<p class="text-black lg:text-xl px-8  font uppercase md:text-base xs:text-sm xs:pb-6">
+		<p class="text-white lg:text-xl px-8  font uppercase md:text-base xs:text-sm xs:pb-6">
 			Each Luther Lion NFT has been programmatically generated from 190+ attributes across traits
 			ranging from Clothes, Eye Accessories, Head-Gear, and many more. All 2626 are unique and royal
 			, some however, have rare traits that have special meaning
@@ -350,9 +350,9 @@
 		</div>
 	</div>
 </div>
-<div class="  bg-zinc-300">
+<div id="FAQ" class="  bg-black">
 
-			<h1 class="text-6xl font-extrabold text-black py-10 text-center">
+			<h1 class="text-6xl font-extrabold text-warning py-10 text-center">
 				FAQ
 			</h1>
   <div class="flex text-center lg:flex-row md:flex-row sm:flex-col xs:flex-col items-center auto gap-10 lg:px-72 md:px-10 sm:px-10 xs:px-10 py-10">
