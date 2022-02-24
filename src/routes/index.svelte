@@ -424,7 +424,7 @@
 		  </div>
 
 	  </div>
-	  <div class="w-fit bg-slate-100 rounded-xl shadow-lg  ">
+	  <div class="w-fit bg-slate-100 text-black rounded-xl shadow-lg  ">
 		  <div tabindex="0" class="collapse">
 			<input type="checkbox"> 
 			<div class="collapse-title text-xl font-extrabold">
