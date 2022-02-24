@@ -322,7 +322,7 @@
 </div>
 
 
-<div id="team" class=" bg-black h-screen">
+<div id="team" class=" bg-black pb-10">
 	<div class="flex flex-col">
 		<span class="justify-items-center text-white text-6xl pt-10 text-bold text-center"> TEAM </span>
 		<div class="flex lg:flex-row md:flex-row xs:flex-col sm:flex-col gap-4 bg-black  pt-10">
@@ -350,13 +350,13 @@
 		</div>
 	</div>
 </div>
-<div class=" bg-zinc-800 ">
+<div class="  bg-zinc-300">
 
 			<h1 class="text-6xl font-extrabold text-black py-10 text-center">
 				FAQ
 			</h1>
-  <div class="flex flex-row items-center auto gap-5 px-72 py-10">
-	  <div class=" bg-slate-100 rounded-xl shadow-lg w-1/2">
+  <div class="flex text-center lg:flex-row md:flex-row sm:flex-col xs:flex-col items-center auto gap-10 lg:px-72 md:px-10 sm:px-10 xs:px-10 py-10">
+	  <div class=" bg-slate-100 rounded-xl shadow-lg w-fit">
 		  <div tabindex="0" class="collapse border-solid">
 			<input type="checkbox"> 
 			<div class="collapse-title text-xl  border-solid font-extrabold border-black">
@@ -424,7 +424,7 @@
 		  </div>
 
 	  </div>
-	  <div class="w-1/2 bg-slate-100 rounded-xl shadow-lg  ">
+	  <div class="w-fit bg-slate-100 rounded-xl shadow-lg  ">
 		  <div tabindex="0" class="collapse">
 			<input type="checkbox"> 
 			<div class="collapse-title text-xl font-extrabold">
@@ -484,7 +484,7 @@
   </div>
 
 </div>
-<div class="bg-gray-700 text-center font-extrabold  text-white font-syne">
+<div class="bg-black text-center font-extrabold  text-white font-syne">
 	© 2022 Luther | All Rights Reserved
 </div>
 
