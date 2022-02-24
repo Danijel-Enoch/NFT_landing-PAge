@@ -20,11 +20,13 @@
 		<ul
 			class="text-white lg:w-2/3  md:ml-32 md:w-2/3 lg:ml-32 flex sm:flex-col sm:w-full sm:gap-2 lg:flex-row md:flex-row md:gap-9 lg:gap-9 uppercase py-5 items-center xs:text-sm xs:gap-3 xs:flex-col  "
 		>
-		<li class="hover:capitalize"><a href="/#feature">Feature</a></li>
-			<li class="hover:capitalize"><a href="/#team">Team</a></li>
-			<li class="hover:capitalize"><a href="/#roadmap">Road Map</a></li>
-			<li class="hover:capitalize"><a href="/#traits">Traits</a></li>
-			<li class="hover:capitalize"><a href="/#about">About</a></li>
+		
+			<li class=""><a href="/#about">About</a></li>
+			<li class=""><a href="/#roadmap">Road Map</a></li>
+			<li class=""><a href="/#traits">Traits and Security</a></li>
+			<li class=""><a href="/#team">Team</a></li>
+			<li class=""><a href="/#feature">Feature</a></li>
+			<li class=""><a href="/#feature">(FAQ)</a></li>
 			<div class=" shadow-md ">
 				<button
 					class="rounded shadow-md outline py-4 px-4 text-xs hover:-translate-y-1 hover:scale-110  duration-300"
@@ -299,22 +301,22 @@
 	/>
 	<img
 		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3 "
-		src={team3}
-		alt=""
-	/>
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
-		src={team4}
-		alt=""
-	/>
-	<img
-		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
 		src={team5}
 		alt=""
 	/>
 	<img
 		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team3}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
 		src={team1}
+		alt=""
+	/>
+	<img
+		class="md:w-40 md:h-40 lg:h-52 lg:w-52  lg:visible md:visible hover:skew-y-3"
+		src={team4}
 		alt=""
 	/>
 </div>
