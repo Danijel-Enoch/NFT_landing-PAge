@@ -187,7 +187,7 @@
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
 								<h3 class="mb-3 font-bold text-white text-2xl">Community wallet Q4 2022</h3>
-								<p class="pb-4 text-sm text-gray-100">10% of primary sales  2.5% secondary sales</p>
+								<p class="pb-4 text-sm text-gray-100">10% of primary sales 2.5% secondary sales</p>
 								<p class="pb-4 text-sm text-gray-100">
 									Community wallet provides passive income for holders
 								</p>
@@ -350,6 +350,141 @@
 		</div>
 	</div>
 </div>
-<div class="bg-gray-700 text-center  text-white font-syne">
+<div class=" bg-zinc-800 ">
+
+			<h1 class="text-6xl font-extrabold text-black py-10 text-center">
+				FAQ
+			</h1>
+  <div class="flex flex-row items-center auto gap-5 px-72 py-10">
+	  <div class=" bg-slate-100 rounded-xl shadow-lg w-1/2">
+		  <div tabindex="0" class="collapse border-solid">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl  border-solid font-extrabold border-black">
+			  Who is Luther?
+			</div>
+			<div class="collapse-content"> 
+			  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+				molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+				numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+				optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+				obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+				nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+				tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+				quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+				sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+				recusandae alias error harum maxime adipisci amet laborum. Perspiciatis 
+				minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit </p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			  Traits and Scarcity
+			</div>
+			<div class="collapse-content"> 
+			  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+				molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+				numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+				optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+				obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+				nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+				tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+				quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+				sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+				recusandae alias error harum maxime adipisci amet laborum. Perspiciatis 
+				minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit </p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			    Who is Luther?
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+				Traits and Scarcity
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			 Team
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+
+	  </div>
+	  <div class="w-1/2 bg-slate-100 rounded-xl shadow-lg  ">
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			who is Luther?
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			  RoadMap
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			 Luther Lair
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold">
+			 Feature
+			</div>
+			<div class="collapse-content"> 
+			  <p>tabindex="0" attribute is necessary to make the div focusable</p>
+			</div>
+		  </div>
+		  <div tabindex="0" class="collapse">
+			<input type="checkbox"> 
+			<div class="collapse-title text-xl font-extrabold ">
+			  Team
+			</div>
+			<div class="collapse-content"> 
+			  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+				molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+				numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
+				optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
+				obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
+				nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
+				tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
+				quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+				sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
+				recusandae alias error harum maxime adipisci amet laborum. Perspiciatis 
+				minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit</p>
+			</div>
+		  </div>
+	  </div>
+  </div>
+
+</div>
+<div class="bg-gray-700 text-center font-extrabold  text-white font-syne">
 	© 2022 Luther | All Rights Reserved
 </div>
+

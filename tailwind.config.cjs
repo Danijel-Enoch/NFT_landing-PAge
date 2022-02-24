@@ -25,7 +25,7 @@ const config = {
 		}
 	},
 
-	plugins: [require("tailwind-gradient-mask-image")]
+	plugins: [require("tailwind-gradient-mask-image"),require("daisyui")],
 };
 
 module.exports = config;

@@ -27,6 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"daisyui": "^2.2.1",
 		"tailwind-gradient-mask-image": "^1.0.0"
 	}
 }
