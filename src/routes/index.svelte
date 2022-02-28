@@ -68,9 +68,8 @@
 	</div>
 </div>
 <div id="feature" class="flex bg-black lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
-	<img class="  md:w-80 lg:w-1/3 lg:pt-0 " src={team7} alt="" />
 	<div
-		class="flex md:w-2/3 lg:w-2/3 flex-col lg:gap-10 lg:pt-20 md:pt-10 uppercase md:gap-4 md:pb-5"
+		class="flex md:w-2/3 lg:w-1/2 flex-col lg:gap-10 lg:pt-20 md:pt-10 uppercase md:gap-4 md:pb-5"
 	>
 		<span
 			class="font-bold lg:text-4xl text-warning md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
@@ -85,6 +84,8 @@
 			never gives financial advice
 		</p>
 	</div>
+	<img class="  md:w-80 lg:w-1/2 lg:pt-0 " src={team7} alt="" />
+	
 </div>
 
 
@@ -115,7 +116,10 @@
 							<div
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
-								<h3 class="mb-3 font-bold text-white text-2xl">Luther Lion avatar creation</h3>
+								<span class="mb-3 font-bold text-white text-2xl">
+									Q2 2021
+								</span>
+								<h3 class="mb-3 font-bold text-white text-sm">Luther the Lion avatar creation</h3>
 							</div>
 						</div>
 					</div>
@@ -131,7 +135,8 @@
 							<div
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
-								<h3 class="mb-3 font-bold text-white text-2xl">2D art creation</h3>
+								<h3 class="mb-3 font-bold text-white text-2xl">Q3 2021</h3>
+								<h3 class="mb-3 font-bold text-white text-sm">2D Generative art created</h3>
 							</div>
 						</div>
 					</div>
@@ -147,8 +152,12 @@
 							<div
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
+							<span>
 								<h3 class="mb-3 font-bold text-white text-2xl">
-									Generative 2D project release (2626 units) Q2/Q3 2022
+									Q1 2021
+								</h3>
+								<h3 class="mb-3 font-bold text-white text-sm">
+									3D animate education series 
 								</h3>
 							</div>
 						</div>
@@ -165,12 +174,15 @@
 							<div
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
+								<span>
+									
+								</span>
 								<h3 class="mb-3 font-bold text-white text-2xl">
-									Raffle for Trips 2 trips a year Q4 2022
+									Q3 2022
 								</h3>
-								<p class="pb-4 text-sm text-gray-100">
-									All expense paid trip for a week to Dubai / Bahamas
-								</p>
+								<h3 class="mb-3 font-bold text-white text-sm">
+									Luther the Lion 2D project launch
+								</h3>
 							</div>
 						</div>
 					</div>
@@ -186,11 +198,8 @@
 							<div
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
-								<h3 class="mb-3 font-bold text-white text-2xl">Community wallet Q4 2022</h3>
-								<p class="pb-4 text-sm text-gray-100">10% of primary sales 2.5% secondary sales</p>
-								<p class="pb-4 text-sm text-gray-100">
-									Community wallet provides passive income for holders
-								</p>
+								<h3 class="mb-3 font-bold text-white text-2xl">Community wallet created</h3>
+								<p class="pb-4 text-sm text-gray-100">10% of primary sales <br> 2.5% secondary sales</p>
 							</div>
 						</div>
 					</div>
@@ -203,11 +212,15 @@
 							<div class="bg-black h-1 w-6 items-center  ml-4 mt-1" />
 						</div>
 						<div class="flex-1 ml-4 z-10 font-medium">
+							
 							<div
 								class="order-1 space-y-2 bg-gray-800 rounded-lg shadow-only transition-ease lg:w-5/12 px-6 py-4"
 							>
-								<h3 class="mb-3 font-bold text-white text-2xl">3D art conceptualized Q2 2023</h3>
-								<p class="pb-4 text-sm text-gray-100">3D animations</p>
+								<h3 class="mb-3 font-bold text-white text-2xl">	Q2 2023</h3>
+								<p class="pb-4 text-sm text-gray-100">3D Generative project conceptualized</p>
+								<p class="pb-4 text-sm text-gray-100">3D pieces metaverse ready</p>
+								<p class="pb-4 text-sm text-gray-100">AR/VR compatible</p>
+								<p class="pb-4 text-sm text-gray-100">2D holders guaranteed mint</p>
 							</div>
 						</div>
 					</div>
