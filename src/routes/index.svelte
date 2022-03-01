@@ -38,9 +38,9 @@
 	</nav>
 </header>
 
-<div class="flex lg:flex-row md:flex-row sm:flex-col xs:flex-col  ">
+<div class="flex items-center bg-black lg:flex-row md:flex-row sm:flex-col xs:flex-col  ">
 	<div class=" lg:w-1/2  bg-black">
-		<img class="lg:w-200 sm:mt-32 md:-pt-22 " src={imageSrc} alt="" />
+		<img class="lg:w-1/2 sm:mt-32 md:-pt-22 " src={imageSrc} alt="" />
 	</div>
 
 	<div
@@ -67,16 +67,16 @@
 		</p>
 	</div>
 </div>
-<div id="feature" class="flex bg-black lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
+<div id="feature" class="flex items-center bg-black lg:flex-1 md:flex-row sm:flex-col xs:flex-col lg:gap-4  ">
 	<div
 		class="flex md:w-2/3 lg:w-1/2 flex-col lg:gap-10 lg:pt-20 md:pt-10 uppercase md:gap-4 md:pb-5"
 	>
 		<span
-			class="font-bold lg:text-4xl text-warning md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
+			class="font-bold pt-10 lg:text-4xl text-warning md:text-xl md:pt-0 sm:ml-10 sm:pt-5 xs:text-center "
 		>
 			LUTHERS LAIR</span
 		>
-		<p class="md:text-sm text-white lg:text-xl sm:pl-10 sm:w-full sm:pb-10 xs:text-sm xs:text-center">
+		<p class="md:text-sm xs:pb-10 text-white lg:text-xl sm:pl-10 sm:w-full sm:pb-10 xs:text-sm xs:text-center">
 			Luthers Lair is where he gets comfortable and shares life changing information about history
 			as well as current topic. Luther is a everyday father intent on finding financial freedom,
 			sharing as much knowledge as he can, to help those interested. Luther merely breaks down
@@ -84,7 +84,7 @@
 			never gives financial advice
 		</p>
 	</div>
-	<img class="  md:w-80 lg:w-1/2 lg:pt-0 " src={team7} alt="" />
+	<img class="  md:w-1/2 lg:w-1/2 lg:pt-0 " src={team7} alt="" />
 	
 </div>
 
